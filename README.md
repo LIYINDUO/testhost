@@ -1,3 +1,7 @@
+*** To resolve 404 error *** => follow the Single Page Apps for GitHub Pages solution at https://github.com/rafrex/spa-github-pages ***
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
